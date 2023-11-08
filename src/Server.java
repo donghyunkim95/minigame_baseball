@@ -27,9 +27,7 @@ public class Server {
             }
 
 
-
 //            sockets.add(socket);
-//
 //            sockets.remove(socket);
 //            socket.close();
 
